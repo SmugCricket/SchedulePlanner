@@ -1,0 +1,39 @@
+MATH111, CALCULUS FOR SCIENTISTS AND ENGINEERS I, 4.0
+MATH112, CALCULUS FOR SCIENTISTS AND ENGINEERS II, 4.0
+MATH213, CALCULUS FOR SCIENTISTS AND ENGINEERS III, 4.0
+MATH225, DIFFERENTIAL EQUATIONS, 3.0
+HASS100, NATURE AND HUMAN VALUES, 4.0
+HASS200, GLOBAL STUDIES, 3.0
+EBGN201, PRINCIPLES OF ECONOMICS, 3.0
+CBEN110, FUNDAMENTALS OF BIOLOGY I, 4.0
+PHGN100, PHYSICS I - MECHANICS, 4.5
+PHGN200, PHYSICS II-ELECTROMAGNETISM AND OPTICS, 4.5 
+CHGN 121, Principles of Chemistry I, 4.0
+CSM 101, Freshman Success Seminar, 0.5
+EPIC 151, Design I, 3.0
+CHGN 122, Principles of Chemistry II, 4.0
+CBEN 210, Introduction to Thermodynamics, 3.0
+CHGN 221, Organic Chemistry I, 3.0
+CHGN 223, Organic Chemistry I Lab, 1.0
+CBEN 200, Computational Methods in ChEN, 3.0
+CBEN 201, Mass and Energy Balances, 3.0
+CHGN 222, Organic Chemistry II, 3.0
+CBEN 358, Chemical Engineering Thermo Lab, 1.0
+CBEN 360, Bioprocess Engineering, 3.0
+CBEN 312/313, Unit Operations Lab, 6.0
+CBEN 314, Heat and Mass Transfer, 4.0
+CBEN 403, Process Dynamics and Control, 3.0
+CBEN 375, Chemical Engineering Separations, 3.0
+FREE, Free Elective 1, 3.0
+LAIS / EBGN	H&SS, Restricted Elective 1, 3.0
+CBEN 418, Reaction Engineering, 3.0
+CBEN 402, Chemical Engineering Design, 3.0
+CHGN 351, Physical Chemistry I, 4.0
+LAIS / EBGN	H&SS, Restricted Elective II, 3.0
+TECH, Technical Elective, 1.0
+BIO TECH, Bio Technical Elective, 3.0
+CBEN 4XX*, Chemical Engineering Elective (≥400), 3.0
+BIO TECH, Bio Technical Elective, 3.0
+LAIS / EBGN	H&SS, Restricted Elective II, 3.0
+FREE, Free Elective 2, 3.0
+FREE, Free Elective 3, 3.0
